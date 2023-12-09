@@ -5,8 +5,8 @@ public class index {
 
         interview_question_01("Maleesh");
 
-        int [] num = [2, 5, 3, 7, 4, 8, 7];
-        interview_question_02(number_list);
+//        int [] num = [2, 5, 3, 7, 4, 8, 7];
+//        interview_question_02(number_list);
 
     }
 
@@ -23,7 +23,7 @@ public class index {
     // Array = [2, 5, 3, 7, 4, 8, 7]
     public static void interview_question_02(int [] number_list){
 
-        
+
 
     }
 
